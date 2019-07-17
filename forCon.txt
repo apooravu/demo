@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added in new branch
+=======
+added in master
+>>>>>>> 15a345ebdc94d27a4d7e2208f7bea3ba8c6da1fc
